@@ -1,0 +1,123 @@
+﻿.x
+{
+    width:40%;
+    border-right:5px solid blue;
+    float:left;
+}
+
+.y
+{
+    width:52%;
+    float:right;
+}
+
+table
+{
+    width:100%;
+    background-color:darkgreen
+}
+
+td
+{
+    height:70px;
+}
+
+a img
+{
+   width:100px;
+   height:100px;
+}
+
+a visited
+{
+    color:blue;
+}
+
+a img:hover
+{
+    width:250px;
+    height:250px;
+}
+
+dt
+{
+     font-weight:bold;
+     font-size:x-large;
+     background-color:blue;
+     color:lightblue;
+}
+
+h1
+{
+    background-color:gray;
+    border-bottom:thick;
+    color:lightblue;
+    font-family:Arial;
+    font-size:30pt;
+}
+
+h3
+{
+    font-family:'Times New Roman';
+    color:black;
+    font-size:24pt;
+    /*background-color:darkgreen;*/
+}
+
+iframe
+{
+   width:100%;
+   height:300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
